@@ -1,13 +1,16 @@
 # CST126_01 - Plastic spoons and strings
 
-**Class ID:** Aunt Beast
+**Class ID: Guon
 
 **Assignement ID:** CST126_01
 
 **Unresolved Issues:**
 
 **Notes:**
-
+While, the output is corectly displayed. The function is using string functions instead of using 
+pointers/pointer arithmetic to access the strings. While, i understood the concept of pointer and 
+its use, what i am struggling about is the logic of how to use pointer to access the string. If possible,
+can you please go over the assignment in class?
 
 ---
 
